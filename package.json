@@ -4,5 +4,8 @@
   "main": "balance_backend.js",
   "scripts": {
     "start": "node balance_backend.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
