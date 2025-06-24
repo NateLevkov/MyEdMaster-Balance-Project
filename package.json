@@ -1,0 +1,8 @@
+{
+  "name": "balance-backend",
+  "version": "1.0.0",
+  "main": "balance_backend.js",
+  "scripts": {
+    "start": "node balance_backend.js"
+  }
+}
